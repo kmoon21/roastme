@@ -1,0 +1,7 @@
+client/node_modules/**/*
+client/.expo/*
+client/npm-debug.*
+
+server/node_modules/**/*
+
+.DS_Store
